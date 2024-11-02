@@ -12,12 +12,12 @@ Lifelong Learner, currently working as budagh kompeni.
 <p>
     - :keyboard: I’m currently learning Data Analytics. </br>
     - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:youremail@gmail.com">Email me!</a>  </br>
+    - :mailbox: How to reach me: <a href="info@storerabbits.biz.id">Email me!</a>  </br>
     - :cloud: Pronouns: She/Her. </br>
     - :game_die: Drawing and writing are part of me. </br>
 <p>
  
 ### <summary><strong>Let's connect!</strong></summary>
-<a href="https://www.instagram.com/yours/">
+<a href="https://www.instagram.com/dokutasione">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
